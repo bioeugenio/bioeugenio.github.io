@@ -1,0 +1,31 @@
+h1
+{
+    background-color: rgba(40, 99, 121, 0.1);
+}
+
+p
+{
+    color: tomato;
+}
+
+div > p
+{
+    color: red;
+}
+
+.form
+{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.name
+{
+    padding-bottom: 10px;
+}
+
+.name-from > span
+{
+    color: red;
+    display: none;
+}
